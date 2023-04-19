@@ -1,5 +1,5 @@
 # Codoid Python Task 23
 <b>Swap two numbers without using temporary variable</b>
 
-<h5>Syntax:</h5>
-<h6>a,b = b,a</h6>
+<h3>Syntax:</h3>
+<h4>a,b = b,a</h4>
