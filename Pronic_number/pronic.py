@@ -12,4 +12,4 @@ def isPronicNumber(num):    #Function to check whether it is pronic number or no
 print("Pronic numbers between 1 and 100: ") #Displays pronic numbers between 1 and 100      
 for i in range(1, 101):    
     if(isPronicNumber(i)):    
-        print(i)    
+        print(i) 
