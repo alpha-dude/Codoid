@@ -7,10 +7,10 @@
 
 <h3><b>Syntax:</b></h3>
 <h4><pre>class SuperClass1:
-    # features of SuperClass1
+    # features of SuperClass1</pre></h4>
 
-class SuperClass2:
-    # features of SuperClass2
+<h4><pre>class SuperClass2:
+    # features of SuperClass2</pre></h4>
 
-class MultiDerived(SuperClass1, SuperClass2):
+<h4><pre>class MultiDerived(SuperClass1, SuperClass2):
     # features of SuperClass1 + SuperClass2 + MultiDerived class</pre></h4>
